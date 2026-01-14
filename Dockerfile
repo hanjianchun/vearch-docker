@@ -1,0 +1,1 @@
+FROM vearch/vearch:latest
